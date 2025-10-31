@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.5.2)  31 OCT 2025 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.5.2)  31 OCT 2025 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,14 +466,14 @@ st/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 <../plots/plot-total-t1-f16.png, id=21, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t1-f16.png Graphic file (type png)
 <use ../plots/plot-total-t1-f16.png>
-Package pdftex.def Info: ../plots/plot-total-t1-f16.png  used on input line 132
+Package pdftex.def Info: ../plots/plot-total-t1-f16.png  used on input line 131
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
  [2]
 <../plots/plot-total-t2-f16.png, id=27, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t2-f16.png Graphic file (type png)
 <use ../plots/plot-total-t2-f16.png>
-Package pdftex.def Info: ../plots/plot-total-t2-f16.png  used on input line 139
+Package pdftex.def Info: ../plots/plot-total-t2-f16.png  used on input line 138
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -483,7 +483,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t3-f16.png, id=28, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t3-f16.png Graphic file (type png)
 <use ../plots/plot-total-t3-f16.png>
-Package pdftex.def Info: ../plots/plot-total-t3-f16.png  used on input line 146
+Package pdftex.def Info: ../plots/plot-total-t3-f16.png  used on input line 145
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -492,7 +492,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t1-f32.png, id=29, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t1-f32.png Graphic file (type png)
 <use ../plots/plot-total-t1-f32.png>
-Package pdftex.def Info: ../plots/plot-total-t1-f32.png  used on input line 153
+Package pdftex.def Info: ../plots/plot-total-t1-f32.png  used on input line 152
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -501,7 +501,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t2-f32.png, id=30, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t2-f32.png Graphic file (type png)
 <use ../plots/plot-total-t2-f32.png>
-Package pdftex.def Info: ../plots/plot-total-t2-f32.png  used on input line 160
+Package pdftex.def Info: ../plots/plot-total-t2-f32.png  used on input line 159
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -510,7 +510,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t3-f32.png, id=31, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t3-f32.png Graphic file (type png)
 <use ../plots/plot-total-t3-f32.png>
-Package pdftex.def Info: ../plots/plot-total-t3-f32.png  used on input line 167
+Package pdftex.def Info: ../plots/plot-total-t3-f32.png  used on input line 166
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -519,7 +519,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t1-f64.png, id=32, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t1-f64.png Graphic file (type png)
 <use ../plots/plot-total-t1-f64.png>
-Package pdftex.def Info: ../plots/plot-total-t1-f64.png  used on input line 174
+Package pdftex.def Info: ../plots/plot-total-t1-f64.png  used on input line 173
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -528,7 +528,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t2-f64.png, id=33, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t2-f64.png Graphic file (type png)
 <use ../plots/plot-total-t2-f64.png>
-Package pdftex.def Info: ../plots/plot-total-t2-f64.png  used on input line 181
+Package pdftex.def Info: ../plots/plot-total-t2-f64.png  used on input line 180
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -537,7 +537,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../plots/plot-total-t3-f64.png, id=34, 462.528pt x 346.896pt>
 File: ../plots/plot-total-t3-f64.png Graphic file (type png)
 <use ../plots/plot-total-t3-f64.png>
-Package pdftex.def Info: ../plots/plot-total-t3-f64.png  used on input line 188
+Package pdftex.def Info: ../plots/plot-total-t3-f64.png  used on input line 187
 .
 (pdftex.def)             Requested size: 455.24408pt x 341.44843pt.
 
@@ -572,7 +572,7 @@ st/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /cm-super/sfrm2074.pfb>
-Output written on report.pdf (11 pages, 405392 bytes).
+Output written on report.pdf (11 pages, 405801 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
